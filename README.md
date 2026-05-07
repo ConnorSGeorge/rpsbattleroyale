@@ -43,7 +43,6 @@ RPS starts at the database/login flow screen.
 
 ## Documentation
 
-- Program guide: [docs/rps.md](docs/rps.md)
 - Assembly instruction set guide: [docs/instruction-set.md](docs/instruction-set.md)
 - Official TeenyAT instruction docs: https://github.com/miniat-amos/TeenyAT/tree/main/docs
 
